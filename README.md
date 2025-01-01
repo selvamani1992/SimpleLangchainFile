@@ -15,9 +15,9 @@ This is a Streamlit-based application that integrates with the LangChain framewo
    ```bash
      git clone <repository_url>
      cd <repository_folder>```
-Install dependencies:
+2. Install dependencies:
 
-```pip install -r requirements.txt```
+   ```pip install -r requirements.txt```
 
 
 
